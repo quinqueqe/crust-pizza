@@ -27,17 +27,17 @@ import React from 'react'
 // 	// if (name) {
 // 	// 	if (product.whProduct === 1) {
 // 	// 		return {
-// 	// 			title: `Пицца ${name} | Next Pizza`,
+// 	// 			title: `Пицца ${name} | Crust Pizza`,
 // 	// 		}
 // 	// 	}
 // 	// 	if (product.whProduct === 2) {
 // 	// 		return {
-// 	// 			title: `${name} | Next Pizza`,
+// 	// 			title: `${name} | Crust Pizza`,
 // 	// 		}
 // 	// 	}
 // 	// } else {
 // 	// 	return {
-// 	// 		title: `Продукт не найден | Next Pizza`,
+// 	// 		title: `Продукт не найден | Crust Pizza`,
 // 	// 	}
 // 	// }
 // }

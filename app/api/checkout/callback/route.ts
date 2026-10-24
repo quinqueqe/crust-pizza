@@ -37,7 +37,7 @@ export async function POST(req: NextRequest) {
 		if (isSucceeded) {
 			await sendEmail(
 				order.email,
-				'Next Pizza | Ваш заказ успешно оформлен 🍕',
+				'Crust Pizza | Ваш заказ успешно оформлен 🍕',
 				OrderSuccessTemplate({
 					items,
 					order,

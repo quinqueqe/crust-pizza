@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { HeaderProvider } from '@/shared/components'
 
 export const metadata: Metadata = {
-	title: 'Главная | Next Pizza',
+	title: 'Главная | Crust Pizza',
 }
 
 export default function RootLayout({

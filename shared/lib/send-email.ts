@@ -8,7 +8,8 @@ export const sendEmail = async (
 	const resend = new Resend(process.env.RESEND_API_KEY)
 
 	const { data, error } = await resend.emails.send({
-		from: 'Next Pizza <noreply@next-pizza.ru>',
+		from: 'Crust Pizza <onboarding@resend.dev>', // edit
+		// from: 'Crust Pizza <noreply@crust-pizza.ru>', // edit
 		to,
 		subject,
 		react: template,

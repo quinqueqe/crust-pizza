@@ -32,7 +32,7 @@ export const Header = ({
 				<Link href='/' className='flex gap-4 items-center'>
 					<Image src='/favicon.ico' alt='img' width={35} height={35} />
 					<div>
-						<h1 className='text-2xl uppercae font-black'>Next Pizza</h1>
+						<h1 className='text-2xl uppercae font-black'>Crust Pizza</h1>
 						{/* <p className='text-sm text-gray-400 leading-3'>
 							вкусней уже некуда
 						</p> */}

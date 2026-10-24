@@ -1,4 +1,4 @@
-# 🍕 Next Pizza
+# 🍕 Crust Pizza
 
 <div align="center">
   <h2>
@@ -95,7 +95,7 @@ A modern, full-stack pizza delivery application built with Next.js 14, featuring
 ## 🏗️ Project Structure
 
 ```
-next-pizza/
+crust-pizza/
 ├── app/                   # Next.js 14 App Router
 │   ├── (admin-panel)/     # Admin panel pages
 │   ├── (checkout)/        # Checkout flow pages
@@ -275,7 +275,7 @@ granted herein, please contact: vrsxdcrown@gmail.com
 ## 🏗️ Структура проекта
 
 ```
-next-pizza/
+crust-pizza/
 ├── app/                   # Next.js 14 App Router
 │   ├── (admin-panel)/     # Страницы административной панели
 │   ├── (checkout)/        # Страницы оформления заказа

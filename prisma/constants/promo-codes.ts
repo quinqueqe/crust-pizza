@@ -12,15 +12,15 @@ export const promoCodes = [
 		discount: 15,
 	},
 	{
-		name: 'stupid',
-		discount: 10,
+		name: 'ktuis99',
+		discount: 99,
 	},
 	{
-		name: 'dodo-pizza',
-		discount: 35,
+		name: 'shulezhko',
+		discount: 100,
 	},
 	{
-		name: 'next-pizza',
-		discount: 35,
+		name: 'potato',
+		discount: 100,
 	},
 ]

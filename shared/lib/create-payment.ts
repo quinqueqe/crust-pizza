@@ -24,7 +24,7 @@ export async function createPayment({ description, orderId, amount }: Props) {
 			confirmation: {
 				type: 'redirect',
 				return_url: process.env.YOOKASSA_CALLBACK_URL,
-				// return_url: 'https://next-pizza.vercel.app/checkout',
+				// return_url: 'https://crust-pizza.vercel.app/checkout',
 			},
 		},
 		{

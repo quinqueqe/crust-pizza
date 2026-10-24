@@ -47,12 +47,12 @@ export const registerUser = async (body: Prisma.UserCreateInput) => {
 
 		await sendEmail(
 			createdUser.email,
-			'Next Pizza | Подтверждение почты 🍕',
+			'Crust Pizza | Подтверждение почты 🍕',
 			VerificationUserTemplate({ code })
 		)
 		return { success: true }
 	} catch (err) {
-		return { error: 'Произошла ошибка' }
 		console.log('[REGISTER_USER_ERROR]', err)
+		return { error: 'Произошла ошибка' }
 	}
 }

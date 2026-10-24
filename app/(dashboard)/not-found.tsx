@@ -4,7 +4,7 @@ import { Container, InfoBlock } from '@/shared/components'
 import { cn } from '@/shared/lib'
 
 export const metadata: Metadata = {
-	title: 'Страница не найдена | Next Pizza',
+	title: 'Страница не найдена | Crust Pizza',
 }
 
 export default function NotFound() {

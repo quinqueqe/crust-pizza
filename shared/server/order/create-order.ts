@@ -114,7 +114,7 @@ export async function createOrder(
 		// отправка письма на почту
 		await sendEmail(
 			data.email,
-			`Next Pizza | Подтверждение вашего заказа 🍕`,
+			`Crust Pizza | Подтверждение вашего заказа 🍕`,
 			PayOrderTemplate({
 				paymentUrl,
 				items: JSON.parse(order.items as string),

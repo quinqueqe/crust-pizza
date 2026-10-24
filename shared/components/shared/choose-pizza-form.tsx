@@ -9,7 +9,7 @@ import {
 	ProductIngredient,
 } from '../../components/shared'
 import { Button } from '../ui'
-import { cn, getPizzaDetails } from '@/shared/lib'
+import { cn, getPizzaDetails } from '@/shared/lib' 
 
 type Props = {
 	imageUrl: string

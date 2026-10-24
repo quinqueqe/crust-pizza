@@ -62,7 +62,7 @@ export const Burger = ({
 								<Image src='/favicon.ico' alt='img' width={35} height={35} />
 								<div>
 									<h1 className='text-2xl uppercae text-white font-black'>
-										Next Pizza
+										Crust Pizza
 									</h1>
 									<p className='text-sm text-gray-400 leading-3'>
 										вкусней уже некуда
