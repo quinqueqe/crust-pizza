@@ -23,4 +23,12 @@ export const promoCodes = [
 		name: 'potato',
 		discount: 100,
 	},
+	{
+		name: 'evgenii',
+		discount: 100,
+	},
+	{
+		name: 'evgeniii',
+		discount: 99,
+	},
 ]
